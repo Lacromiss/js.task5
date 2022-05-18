@@ -1,0 +1,12 @@
+.all{
+  display: flex;
+}
+.one{
+  width: 200px;height: 100px;background-color: blanchedalmond;margin-left: 15px;text-align: center;box-sizing: border-box;padding-top: 25px;
+}
+.two{
+  width: 200px;height: 100px;background-color: blanchedalmond;margin-left: 15px;text-align: center;box-sizing: border-box;padding-top: 25px;
+}
+.tr{
+  width: 200px;height: 100px;background-color: blanchedalmond;margin-left: 15px;text-align: center; box-sizing: border-box;padding-top: 25px;
+}
